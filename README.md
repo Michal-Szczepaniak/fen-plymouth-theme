@@ -6,7 +6,7 @@ Code shamelessly stolen from https://github.com/1BB3/watch-dogs
 
 ```
 cd /usr/share/plymouth/themes
-sudo git clone https://github.com/Michal-Szczepaniak/fen-plymouth-theme.git
+sudo git clone https://github.com/Michal-Szczepaniak/fen-plymouth-theme.git fen
 sudo plymouth-set-default-theme -R fen
 ```
 
